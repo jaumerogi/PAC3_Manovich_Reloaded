@@ -1,67 +1,71 @@
-# PAC3_Manovich_Reloaded – Assaig sobre dos nous casos d’hibridació digital
+# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
-## Autor
-**Nom:** Jaume Rosselló Girart  
-**Assignatura:** Cultura Digital – Universitat Oberta de Catalunya  
-**PAC3 – Manovich Reloaded**  
-**Repositori creat amb llicència Creative Commons BY-SA**
+**Autor:** Jaume Rosselló Girart  
+**Assignatura:** Cultura Digital - Grau Multimèdia - UOC  
+**Data d'entrega:** 18/05/2025  
+**Llicència:** CC BY-NC-ND 4.0  
 
 ---
 
 ## Introducció
 
-Després de la digitalització i la remediació, la hibridació és un dels conceptes clau per comprendre les transformacions culturals generades per la irrupció del programari. Més enllà de la simple coexistència de formats, la hibridació implica una fusió profunda entre llenguatges tècnics, interfícies, mitjans i pràctiques socials, produint noves formes d'expressió i experiència impossibles de classificar segons les categories tradicionals.
+Després de la digitalització i la remediació, la hibridació és un dels darrers conceptes clau per entendre els canvis i l'evolució dels nous mitjans digitals. A diferència de la multimèdia, on els diferents formats conviuen de manera paral·lela, la hibridació proposa una fusió profunda entre estructures, interfícies i processos, transformant completament l’experiència cultural.
 
-Aquest assaig explora dos casos recents d’hibridació digital que representen de manera clara com el programari ha esdevingut una força estructuradora de la cultura contemporània. El primer cas se centra en els sistemes conversacionals com ChatGPT, i el segon en la plataforma TikTok. Ambdós exemples reflecteixen com les interfícies, el codi i la lògica del programari actuen com a fonaments d’unes pràctiques culturals transformades.
-
----
-
-## Cas 1 – ChatGPT i els sistemes conversacionals com a plataformes creatives modulars
-
-**Descripció:**  
-ChatGPT ha evolucionat més enllà d’un sistema de conversa per convertir-se en un entorn modular capaç de donar suport a processos creatius, educatius i professionals. Mitjançant l’ús de plugins, memòria contextual i agents personalitzats, aquest programari esdevé una eina flexible que integra llenguatge natural, codi i interfícies gràfiques.
-
-**Relació amb el concepte d’hibridació:**  
-ChatGPT representa una hibridació funcional i semàntica entre processos automatitzats i intervenció humana. La seva estructura modular permet que l’usuari configuri la seva pròpia experiència, difuminant els límits entre creador i programador. És un entorn que barreja lògica de programació, creació textual, disseny d’interfícies i sistemes d’aprenentatge automàtic.
-
-**Principis del programari segons Manovich:**
-- *Modularitat:* components com plugins i agents es poden combinar i adaptar a necessitats diverses.
-- *Automatització:* capacitat per generar contingut, estructures o respostes de manera automàtica.
-- *Variabilitat:* experiència diferenciada en funció de l’usuari, del context i de la configuració del sistema.
-- *Hibridació tècnica i cultural:* la combinació entre IA i interfícies dialoga amb llenguatges culturals i humans.
-
-**Recursos:**
-- [Web oficial de ChatGPT](https://chat.openai.com/)
-- [Exemple d’ús creatiu](https://www.youtube.com/watch?v=ESq1P4Yc3Us)
+En aquest assaig es presenten dos casos recents que exemplifiquen aquest fenomen d’una manera clara i reveladora: **ChatGPT com a plataforma creativa conversacional** i **TikTok com a entorn narratiu algorítmic i de remescla col·lectiva**. A través de l'anàlisi de les seves característiques tècniques, funcionals i culturals, s'observarà com el programari redefineix la producció, distribució i recepció del contingut cultural.
 
 ---
 
-## Cas 2 – TikTok com a plataforma d’hibridació cultural i narrativa algorítmica
+## Exemple 1: ChatGPT i els sistemes conversacionals com a entorns de creació modular
 
 **Descripció:**  
-TikTok no és només una xarxa social de vídeos curts, sinó una plataforma creativa i algorítmica on la producció, distribució i remescla de contingut es fa de manera integrada. El seu disseny afavoreix la viralitat, l’ús col·laboratiu de sons i formats i la construcció d’un llenguatge audiovisual propi.
+ChatGPT és un model de llenguatge desenvolupat per OpenAI que, amb la incorporació de funcionalitats com la memòria, els plugins i els agents personalitzats, ha evolucionat cap a una plataforma de creació intel·ligent, oberta i altament configurable. Aquesta evolució permet que l’usuari pugui dissenyar entorns d’assistència personalitzats, fluxos creatius o eines de suport a la recerca i a l'expressió.
 
-**Relació amb el concepte d’hibridació:**  
-TikTok integra les lògiques de les indústries culturals tradicionals (com el videoclip o la publicitat) amb les possibilitats tècniques del programari i la creativitat social dels usuaris. Això produeix un nou tipus de contingut híbrid, on el format, l’algoritme i la participació col·lectiva actuen conjuntament.
+**Hibridació funcional i d’interfície:**  
+ChatGPT representa una hibridació entre codi, interfície textual i intencionalitat humana. L’usuari ja no només consulta, sinó que **construeix**, **programa**, **co-crea**. Els sistemes de resposta no són lineals, sinó que responen de manera adaptativa al context i als objectius, integrant funcionalitats com ara generació de codi, creació visual, traduccions, estratègies comunicatives o simulacions de rol.
 
-**Principis del programari segons Manovich:**
-- *Combinatorietat:* reutilització i remescla de continguts per part de la comunitat.
-- *Automatització:* efectes, transicions, reconeixement facial i subtítols generats automàticament.
-- *Variabilitat:* el feed de continguts és diferent per a cada usuari i s’ajusta constantment.
-- *Interfície com a llenguatge:* l’editor de vídeo integrat i les seves regles determinen el tipus d’expressió cultural.
+**Principis segons Manovich:**
+- **Modularitat:** configuració d’agents i plugins adaptables a diferents tasques.
+- **Automatització:** generació de contingut textual, visual i funcional.
+- **Variabilitat:** cada conversa i entorn és únic segons l’usuari i les seves instruccions.
+- **Interfície com a codi cultural:** el llenguatge natural s’utilitza per modelar accions digitals complexes.
 
 **Recursos:**
-- [Web de TikTok](https://www.tiktok.com)
+- [ChatGPT](https://chat.openai.com)
+- [Exemple creatiu amb GPT](https://www.youtube.com/watch?v=ESq1P4Yc3Us)
+
+---
+
+## Exemple 2: TikTok com a plataforma d’hibridació cultural i narrativa algorítmica
+
+**Descripció:**  
+TikTok ha esdevingut un espai central de la cultura digital contemporània. Més enllà d'una xarxa social, és una eina de producció i remescla cultural on milions d'usuaris participen activament en la creació de micro-narratives visuals a partir de sons, filtres, efectes i patrons d'edició.
+
+**Hibridació narrativa i algorítmica:**  
+TikTok fusiona el llenguatge del videoclip, la interfície gamificada, els formats participatius i el poder predictiu dels algoritmes. L'usuari no només crea, sinó que adapta, transforma i reinterpreta contingut en una dinàmica col·lectiva. El cicle entre consum i creació esdevé immediat, i la narrativa es construeix entre usuaris i sistema, de forma descentralitzada.
+
+**Principis segons Manovich:**
+- **Combinatorietat:** remescla constant de sons, patrons visuals i formats.
+- **Automatització:** aplicació d’efectes, subtítols i sincronització automàtica.
+- **Variabilitat:** contingut personalitzat segons patrons de consum.
+- **Interfície com a llenguatge creatiu:** l’estructura d’edició determina el tipus d’expressió possible.
+
+**Recursos:**
+- [TikTok](https://www.tiktok.com)
 - [Estudi sobre TikTok i cultura remix](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.936526/full)
 
 ---
 
-## Conclusions
+## Conclusió
 
-A través dels dos casos presentats, observem com el programari no només actua com a mitjà sinó també com a mediació estructural de l’experiència cultural. Tant ChatGPT com TikTok exemplifiquen noves formes de creació i expressió on les eines són també narratives, i on les interfícies determinen la forma i el contingut. Aquesta hibridació entre funció i significat, entre codi i cultura, representa una línia central del pensament de Manovich i del paisatge digital contemporani.
+A través dels casos de ChatGPT i TikTok podem observar com el programari no només actua com a eina, sinó com a **estructura cultural activa** que determina què, com i amb qui es crea i comparteix contingut. Ambdues plataformes exemplifiquen una **hibridació profunda de funcions, rols i formats**, on el programari esdevé plataforma, interfície i llenguatge cultural. Seguint el pensament de Manovich, podem afirmar que el software no pren només el comandament, sinó que reescriu les regles de l’expressió i l’experiència digital contemporània.
 
 ---
 
-## Llicència
+## Bibliografia i recursos
 
-Aquest document està compartit sota llicència [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.ca)
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.  
+- Manovich, L. (2007). *Understanding Hybrid Media*. [Enllaç](https://manovich.net/index.php/projects/understanding-hybrid-media)  
+- *TikTok and the Culture of Remix* (2022). [Enllaç](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.936526/full)  
+- [Web de ChatGPT - OpenAI](https://openai.com)  
+- [Web de TikTok](https://www.tiktok.com)
+
